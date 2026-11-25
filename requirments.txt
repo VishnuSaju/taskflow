@@ -1,0 +1,6 @@
+python
+pandas
+datetime
+csv
+tkinter
+exception handling
